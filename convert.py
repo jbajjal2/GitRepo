@@ -1,2 +1,2 @@
 def convertDollarsToCents( dollars ):
-	return dollars * 100
+	return canadaiandollars * 100
